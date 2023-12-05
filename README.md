@@ -13,7 +13,7 @@ A user-friendly password generator with a glowing effect, developed using Tkinte
 ## Getting Started
 1. Ensure you have Python installed.
 2. Install required packages: `pip install tkinter pyttsx3`
-3. Run the script: `python password_generator.py`
+3. Run the script: `python nish_password_generator.py`
 
 ## Contact
 - **Email:** [mohamedthanish14@gmail.com](mailto:mohamedthanish14@gmail.com)
